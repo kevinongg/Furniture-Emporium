@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(233, 233, 233);
+}
+
+h1 {
+  margin: 5px;
+}
+
+#text {
+  margin: 5px;
+}
+
+h2 {
+  margin: 5px;
+}
+
+.lorem {
+  margin: 5px;
+  font-family: sans-serif;
+}
+
+.newPrice {
+  margin: 5px;
+  font-size: 40px;
+  font-family: serif;
+  color: green;
+}
+
+.oldPrice {
+  font-size: 20px;
+  font-family: serif;
+  color: gray;
+}
+
+.cartButton {
+  font-size: 15px;
+  margin: 3px;
+  padding: 10px;
+  width: 390px;
+  border: 0;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}
+
+.furniture {
+  width: 400px;
+  padding: 10px;
+  border: 15px;
+  margin: 10px;
+  text-align: left;
+  background-color: white;
+  border-radius: 15px;
+}
